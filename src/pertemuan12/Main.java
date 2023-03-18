@@ -18,7 +18,7 @@ public class Main {
 		countdown2.setPriority(1);
 		
 		System.out.println("Priority Thread 1: " + countdown1.getPriority());
-		System.out.println("Priority Thread 2: " + countdown2.getPriority());
+		System.out.println("Priority Thread 2: " + countdown2.getPriority());     
 		
 	}
 
